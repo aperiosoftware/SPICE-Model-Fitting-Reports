@@ -1,0 +1,1 @@
+data/solo_l2_spice_n_ras_20220403t121537_v07_100664022_000.fits filter=lfs diff=lfs merge=lfs -text
